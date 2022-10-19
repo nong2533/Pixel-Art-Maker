@@ -1,8 +1,8 @@
-// Select color input
+// Select size input
 var size = document.getElementById("sizePicker");
 var height = document.getElementById("inputHeight");
 var width = document.getElementById("inputWidth");
-// Select size input
+// Select color input
 var color = document.getElementById("colorPicker");
 var canvas = document.getElementById("pixelCanvas");
 
